@@ -2,6 +2,8 @@
 
 Este projeto implementa uma **Rede Bayesiana Dinâmica (DBN)** para inferir a **saúde do solo agrícola** com base em observações semanais do aspecto visual das plantações, utilizando **Python** e a biblioteca `pgmpy`.
 
+![Image](https://github.com/user-attachments/assets/6805eee2-6c89-4415-b50d-bebcd4e69bb7)
+
 ## 🧩 O que é uma Rede Bayesiana Dinâmica (DBN)
 
 É um modelo probabilístico gráfico que representa **variáveis ao longo do tempo**, capturando suas **dependências temporais**.
@@ -35,6 +37,4 @@ Construir uma **Rede Bayesiana Dinâmica (DBN)** para:
 - pandas, numpy – Manipulação de dados
 - matplotlib – Visualizações
 - scikit-learn – Divisão de dados e métricas de avaliação
-
-![Image](https://github.com/user-attachments/assets/6805eee2-6c89-4415-b50d-bebcd4e69bb7)
 
